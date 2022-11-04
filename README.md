@@ -5,4 +5,4 @@ Hola github
 
 [Nucleo Tiempo Real](https://github.com/robccharles/NtrMx)
 
-[CAP. I DEL MANUAL NtrMx](https://github.com/robccharles/NtrMx/blob/main/MANUAL/CAPIDEL-2.htm)
+[CAP. I DEL MANUAL NtrMx](https://github.com/robccharles/robccharles.github.io/blob/main/CAPIDEL-2.htm)
